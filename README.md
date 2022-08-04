@@ -2,10 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonviana-/)
 
-<div display="flex" flex-direction="row" align-itens="center" justify-content="center">
-    <img height="180em" class="img" src="https://github-readme-stats.vercel.app/api?username=andykallian&show_icons=true&theme=radical" />
-    <img height="180em" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andykallian&theme=radical&layout=compact" />
+<div align="center">
+  <a href="https://github.com/andykallian">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andykallian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andykallian&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 
 ## Tecnologias que estudo e utilizo no meu dia a dia:
 
