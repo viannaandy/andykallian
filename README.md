@@ -19,4 +19,9 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-<!-- ![Snake animation](https://github.com/andykallian/andykallian/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+  
+  ![Snake animation](https://github.com/andykallian/andykallian/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
