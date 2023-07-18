@@ -1,7 +1,7 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # execute every 12 hoursdist/github-contribution-grid-snake-dark.svg?palette=github-dark
     - cron: "* */12 * * *"
   workflow_dispatch:
 
@@ -25,7 +25,6 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
